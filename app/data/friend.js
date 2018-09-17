@@ -3,7 +3,7 @@
 var friendList = [
   {
     name: 'Brooke Shields',
-    profilePic: 'https://goo.gl/images/Vz5noh',
+    profilePic: 'https://user-images.githubusercontent.com/15266541/45605216-e59f7880-ba00-11e8-9ffe-3c17c39c6f25.jpg',
     scores: [
       "4",
       "5",
